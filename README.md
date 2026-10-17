@@ -62,7 +62,7 @@ The supplied baseline uses random selection and fixed local epochs. The proposed
 
 ## Team
 - **Group Head:** Hamza Khurram (i210735)
-- **Group Member 2:** [Enter full name and roll number]
-- **Group Member 3:** [Enter full name and roll number]
+- **Group Member 2:** Muhammad Mubeen (21i-0794)
+- **Group Member 3:** Muhammad Asim (21i-0852)
 
 **Repository URL:** https://github.com/CtrlAltHamza/agentic-fl-iot
