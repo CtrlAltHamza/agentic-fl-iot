@@ -61,4 +61,8 @@ The supplied baseline uses random selection and fixed local epochs. The proposed
 5. Compare accuracy, energy, communication, wall-clock latency, dropped updates, fairness/participation, and tool-call cost.
 
 ## Team
-Fill in all group members and roll numbers before submission. Each member should contribute meaningful commits from their own account and understand the full system.
+- **Group Head:** Hamza Khurram (i210735)
+- **Group Member 2:** [Enter full name and roll number]
+- **Group Member 3:** [Enter full name and roll number]
+
+**Repository URL:** https://github.com/CtrlAltHamza/agentic-fl-iot
